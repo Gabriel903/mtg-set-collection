@@ -23,6 +23,12 @@
   color: #61dafb;
 }
 
+.Body-Style {
+  width: 100%;
+  height: 1000px;
+  background-image: url("https://external-preview.redd.it/uIvFOYYr9-rzIDRmTuFQeHKhBi_q6UV7XjiD00M0o2c.jpg?auto=webp&s=4f1149cb384bec2a2c27fd41168e95a4c1d264b9")
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
